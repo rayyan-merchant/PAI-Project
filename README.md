@@ -155,4 +155,4 @@ We welcome contributions! Please follow these steps:
 ---
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the `https://github.com/iamrayyan1/PAI-Project/blob/main/LICENSE` file for details.
