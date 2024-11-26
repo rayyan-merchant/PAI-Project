@@ -39,7 +39,7 @@ This project is a machine learning application to predict diabetes using the **P
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/diabetes-prediction.git
+    (https://github.com/iamrayyan1/PAI-Project/blob/main/diabetes.csv)
     ```
 2. Navigate to the project directory:
     ```bash
