@@ -148,4 +148,4 @@ We welcome contributions! Please follow these steps:
 ---
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Creative Commons Legal Code License. See the `LICENSE` file for details.
