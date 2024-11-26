@@ -43,11 +43,17 @@ This project is a machine learning application to predict diabetes using the **P
     ```
 2. Navigate to the project directory:
     ```bash
-    cd diabetes-prediction
+    (https://github.com/iamrayyan1/PAI-Project/tree/main)
     ```
 3. Install the required libraries:
     ```bash
-    pip install -r requirements.txt
+    pip install pandas
+    pip install matplotlib
+    pip install seaborn
+    pip install numpy
+    pip install scikit-learn
+    pip install imbalanced-learn
+    pip install joblib
     ```
 
 ---
@@ -55,19 +61,6 @@ This project is a machine learning application to predict diabetes using the **P
 ## Dataset
 - **Name:** Pima Indian Diabetes Dataset
 - **Description:** This dataset contains medical diagnostic measurements for predicting the onset of diabetes based on specific factors. It has 768 entries with 8 features and a target variable (`Outcome`).
-
----
-
-## Exploratory Data Analysis (EDA)
-### Key Visualizations:
-- **Histograms:**
-  ![Feature Distribution](./images/histogram.png)
-- **Boxplot:**
-  ![Boxplot for Outlier Detection](./images/boxplot.png)
-- **Correlation Heatmap:**
-  ![Correlation Heatmap](./images/heatmap.png)
-- **Pairplot by Outcome:**
-  ![Pairplot](./images/pairplot.png)
 
 ---
 
@@ -96,8 +89,8 @@ This project is a machine learning application to predict diabetes using the **P
      - ROC-AUC Score
 
 ### Metrics:
-- **Accuracy:** 0.91
-- **ROC-AUC Score:** 0.94
+- **Accuracy:** 0.86
+- **ROC-AUC Score:** 0.92
 
 ### Feature Importance:
 ![Feature Importance](./images/feature_importance.png)
@@ -120,8 +113,8 @@ The **Tkinter-based GUI** allows:
 ### Model Performance:
 | Metric               | Score  |
 |----------------------|--------|
-| **Accuracy**         | 91%    |
-| **ROC-AUC Score**    | 94%    |
+| **Accuracy**         | 86%    |
+| **ROC-AUC Score**    | 92%    |
 
 ---
 
@@ -155,4 +148,4 @@ We welcome contributions! Please follow these steps:
 ---
 
 ## License
-This project is licensed under the MIT License. See the `https://github.com/iamrayyan1/PAI-Project/blob/main/LICENSE` file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
