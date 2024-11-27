@@ -1,0 +1,10 @@
+2024-11-23 23:25:13,350 - WARNING - Could not load logo: couldn't open "healthcare_app.png": no such file or directory
+2024-11-23 23:29:16,990 - WARNING - Could not load logo: couldn't open "healthcare_app.png": no such file or directory
+2024-11-23 23:47:26,994 - INFO - Prediction saved: {'Pregnancies': 12.0, 'Glucose': 150.0, 'Blood Pressure': 120.0, 'Skin Thickness': 25.0, 'Insulin': 0.0, 'BMI': 25.0, 'Diabetes Pedigree': 2.4, 'Age': 20.0, 'Outcome': 'Non-Diabetic'}
+2024-11-23 23:54:09,302 - INFO - Prediction saved: {'Pregnancies': 12.0, 'Glucose': 150.0, 'Blood Pressure': 120.0, 'Skin Thickness': 25.0, 'Insulin': 0.0, 'BMI': 25.0, 'Diabetes Pedigree': 2.4, 'Age': 20.0, 'Outcome': 'Non-Diabetic'}
+2024-11-25 18:29:04,167 - INFO - Prediction saved: {'Pregnancies': 10.0, 'Glucose': 200.0, 'Blood Pressure': 140.0, 'Skin Thickness': 55.0, 'Insulin': 700.0, 'BMI': 29.0, 'Diabetes Pedigree': 2.0, 'Age': 50.0, 'Outcome': 'Diabetic'}
+2024-11-27 00:02:01,881 - INFO - Prediction saved: {'Pregnancies': 5.0, 'Glucose': 200.0, 'Blood Pressure': 140.0, 'Skin Thickness': 20.0, 'Insulin': 300.0, 'BMI': 30.0, 'Diabetes Pedigree': 2.0, 'Age': 50.0, 'Outcome': 'Diabetic'}
+2024-11-27 00:04:03,251 - ERROR - Batch prediction error: Missing required columns: {'Skin Thickness', 'Blood Pressure', 'Diabetes Pedigree'}
+2024-11-27 00:04:29,784 - ERROR - Batch prediction error: Missing required columns: {'Skin Thickness', 'Blood Pressure', 'Diabetes Pedigree'}
+2024-11-27 00:12:15,343 - INFO - Prediction saved: {'Pregnancies': 5.0, 'Glucose': 200.0, 'Blood Pressure': 140.0, 'Skin Thickness': 20.0, 'Insulin': 200.0, 'BMI': 30.0, 'Diabetes Pedigree': 2.0, 'Age': 50.0, 'Outcome': 'Diabetic'}
+2024-11-27 00:43:36,459 - INFO - Prediction saved: {'Pregnancies': 5.0, 'Glucose': 200.0, 'Blood Pressure': 140.0, 'Skin Thickness': 20.0, 'Insulin': 200.0, 'BMI': 30.0, 'Diabetes Pedigree': 2.0, 'Age': 50.0, 'Outcome': 'Diabetic'}
