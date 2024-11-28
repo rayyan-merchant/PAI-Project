@@ -83,7 +83,8 @@ Before using the prediction system, users must register and log in through a sec
 ### Steps:
 
 1. **Register a new user:**
-    (https://github.com/iamrayyan1/PAI-Project/blob/main/images/reg%20page.png)
+   ![Reg Example](https://github.com/iamrayyan1/PAI-Project/blob/main/images/reg%20page.png)
+)
 
     - Enter your desired username and password.
     - Passwords are stored securely using hashing.
