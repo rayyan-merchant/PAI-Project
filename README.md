@@ -158,7 +158,7 @@ The **Tkinter-based GUI** provides an intuitive interface for predictions.
 ### Command-Line Prediction:
 1. Train and save the model:
     ```bash
-    python diabetes_model.py
+    https://github.com/iamrayyan1/PAI-Project/blob/main/diabetes_model.py
     ```
 
 2. To view EDA/Graphs:
