@@ -90,7 +90,8 @@ Before using the prediction system, users must register and log in through a sec
 
 2. **Login:**
     - Enter your registered credentials to access the main application.
-      ![login Example](https://github.com/iamrayyan1/PAI-Project/blob/main/images/login%20page.png)
+      
+    ![login Example](https://github.com/iamrayyan1/PAI-Project/blob/main/images/login%20page.png)
 ---
 
 ## Dataset
