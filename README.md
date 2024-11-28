@@ -168,10 +168,7 @@ The **Tkinter-based GUI** provides an intuitive interface for predictions.
 
 ### GUI Usage:
 1. Run the GUI:
-    ```bash
-    python final.py
-    ```
-
+  (https://github.com/iamrayyan1/PAI-Project/blob/main/final.py)
 ---
 
 ## Contributing
