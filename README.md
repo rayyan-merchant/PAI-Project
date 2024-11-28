@@ -143,7 +143,8 @@ The **Tkinter-based GUI** provides an intuitive interface for predictions.
 - **Help Section:** Tooltips for input fields and detailed instructions.
 
 ### GUI Screenshot:
-![GUI Example](./images/gui_example.png)
+![GUI Example](![image](https://github.com/user-attachments/assets/ba51f503-687d-44b9-bfb1-a8c0b3df64e2)
+)
 
 ---
 
