@@ -89,12 +89,8 @@ Before using the prediction system, users must register and log in through a sec
      ![Reg Example](https://github.com/iamrayyan1/PAI-Project/blob/main/images/reg%20page.png)
 
 2. **Login:**
-    ```bash
-    python auth_system.py --login
-    ```
-
     - Enter your registered credentials to access the main application.
-
+      ![login Example](https://github.com/iamrayyan1/PAI-Project/blob/main/images/login%20page.png)
 ---
 
 ## Dataset
