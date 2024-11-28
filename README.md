@@ -158,18 +158,18 @@ The **Tkinter-based GUI** provides an intuitive interface for predictions.
 ### Command-Line Prediction:
 1. Train and save the model:
     ```bash
-    python train_model.py
+    python diabetes_model.py
     ```
 
-2. Load and use the saved model:
+2. To view EDA/Graphs:
     ```bash
-    python predict.py
+    python graph.py
     ```
 
 ### GUI Usage:
-1. Run the GUI (after login):
+1. Run the GUI:
     ```bash
-    python gui.py
+    python final.py
     ```
 
 ---
