@@ -179,7 +179,7 @@ The **Tkinter-based GUI** provides an intuitive interface for predictions.
 We welcome contributions! Please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`feature-branch`).
+2. Create a new branch 
 3. Commit your changes.
 4. Push to the branch.
 5. Open a Pull Request.
