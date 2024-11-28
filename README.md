@@ -163,12 +163,14 @@ The **Tkinter-based GUI** provides an intuitive interface for predictions.
 
 2. To view EDA/Graphs:
     ```bash
-    python graph.py
+    https://github.com/iamrayyan1/PAI-Project/blob/main/graphs.py
     ```
 
 ### GUI Usage:
 1. Run the GUI:
-  (https://github.com/iamrayyan1/PAI-Project/blob/main/final.py)
+   ```bash
+    https://github.com/iamrayyan1/PAI-Project/blob/main/final.py
+  ```
 ---
 
 ## Contributing
